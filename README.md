@@ -17,6 +17,7 @@ https://1stwebdesigner.com/essential-cheat-sheets-photoshop-illustrator-gimp-ske
 <br>
 SITE PERFORMANCE/OPTIMIZATION<br>
 https://www.webpagetest.org/<br>
+https://developers.google.com/web/updates/<br>
 <br>
 <br>
 WASABI - Own Work!<br>
@@ -40,7 +41,9 @@ Deeply nested JSON http://embed.plnkr.co/PQFnQm/<br>
 https://tylermcginnis.com/blog<br>
 https://davidwalsh.name/<br>
 https://docs.angularjs.org/guide/concepts<br>
+https://angular.io/
 https://webpack.js.org<br>
+https://idirver.gitbooks.io/survivejs-webpack-and-react/content/manuscript/index.html<br>
 <br>
 <br>
 TESTING<br>
@@ -64,6 +67,7 @@ http://www.postgresqltutorial.com/<br>
 https://node-postgres.com/features/pooling<br>
 https://tapoueh.org/blog/2017/12/setting-up-psql-the-postgresql-cli/<br>
 https://www.w3schools.com/angular/angular_sql.asp<br>
+http://docs.sequelizejs.com/<br>
 <br>
 <br>
 PHP/APACHE <br>
