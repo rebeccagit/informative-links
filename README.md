@@ -1,21 +1,21 @@
 # informative-links
 A place to keep my useful links on many topics
 <br><br>
-ANIMATION/GAMING
-WebGL http://webglinsights.com/
-Game programming patterns http://gameprogrammingpatterns.com/introduction.html
-https://medium.freecodecamp.org/a-guide-to-svg-on-web-V
-https://codepen.io/dashboard/
-https://aerolab.co/blog/flexbox-grids/
-https://poly.google.com/likes
+ANIMATION/GAMING<br>
+WebGL http://webglinsights.com/<br>
+Game programming patterns http://gameprogrammingpatterns.com/introduction.html<br>
+https://medium.freecodecamp.org/a-guide-to-svg-on-web-V<br>
+https://codepen.io/dashboard/<br>
+https://aerolab.co/blog/flexbox-grids/<br>
+https://poly.google.com/likes<br>
+<br>
+<br>
 
-
-
-IMAGE MANIPULATION
-...ImageMagick-7.0.7-Q16/www/gradient.html
-https://1stwebdesigner.com/essential-cheat-sheets-photoshop-illustrator-gimp-sketch/
-
-
+IMAGE MANIPULATION<br>
+...ImageMagick-7.0.7-Q16/www/gradient.html<br>
+https://1stwebdesigner.com/essential-cheat-sheets-photoshop-illustrator-gimp-sketch/<br>
+<br>
+<br>
 SITE PERFORMANCE/OPTIMIZATION
 https://www.webpagetest.org/
 
